@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rick-morty-chav/static/css/main.a11317b5.chunk.css",
+    "main.js": "/rick-morty-chav/static/js/main.fbd5faff.chunk.js",
+    "main.js.map": "/rick-morty-chav/static/js/main.fbd5faff.chunk.js.map",
+    "runtime-main.js": "/rick-morty-chav/static/js/runtime-main.35aebc78.js",
+    "runtime-main.js.map": "/rick-morty-chav/static/js/runtime-main.35aebc78.js.map",
+    "static/js/2.3d32ecae.chunk.js": "/rick-morty-chav/static/js/2.3d32ecae.chunk.js",
+    "static/js/2.3d32ecae.chunk.js.map": "/rick-morty-chav/static/js/2.3d32ecae.chunk.js.map",
+    "index.html": "/rick-morty-chav/index.html",
+    "precache-manifest.f1dc9571750687c4d24fcdae690a5c95.js": "/rick-morty-chav/precache-manifest.f1dc9571750687c4d24fcdae690a5c95.js",
+    "service-worker.js": "/rick-morty-chav/service-worker.js",
+    "static/css/main.a11317b5.chunk.css.map": "/rick-morty-chav/static/css/main.a11317b5.chunk.css.map",
+    "static/js/2.3d32ecae.chunk.js.LICENSE.txt": "/rick-morty-chav/static/js/2.3d32ecae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35aebc78.js",
+    "static/js/2.3d32ecae.chunk.js",
+    "static/css/main.a11317b5.chunk.css",
+    "static/js/main.fbd5faff.chunk.js"
+  ]
+}
