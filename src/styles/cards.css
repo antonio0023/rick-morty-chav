@@ -1,0 +1,62 @@
+*{
+    background-color: #1d9858;
+    background-image: linear-gradient(43deg, #1d9858 0%, #526e2d 30%, #081e28 66%, #000000 100%);
+
+}
+img{
+    border-radius: 10px;
+    widows: 280px;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+    margin: 1% 0 1% 1%;
+    background: none;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 20px;
+    transition: 0.2s;
+    background-color: none;
+  }
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 255, 55, 0.719);
+  }
+.col .card:hover{
+    filter: blur(0px);
+    transform: scale(0.95);
+    opacity: 1;
+    
+}
+.col .card h1{
+    color:white;
+    font-size: 24px;
+    text-align: center;
+    background: none;
+    
+}
+.col .card .h4{
+    color: rgb(39, 177, 39);
+    font-size: 15px;
+    font-weight: bolder;
+    background: none;
+    margin: 10px 10px 10px;
+}
+#gnr{
+    color: rgb(249, 255, 249);
+    font-size: 15px;
+    background: none;
+}
